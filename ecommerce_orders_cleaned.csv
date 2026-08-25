@@ -1,0 +1,41 @@
+OrderID,CustomerName,City,Category,Quantity,Price,PaymentMode,OrderDate,TotalAmount
+ORD1019,Arjun Kapoor,Chennai,Furniture,4,999.0,Credit Card,2026-01-15,3996.0
+ORD1028,Vikram Rao,Bangalore,Clothing,1,499.0,Cash On Delivery,2026-01-15,499.0
+ORD1033,Rohit Gupta,Mumbai,Groceries,1,2999.0,Cash On Delivery,2026-01-15,2999.0
+ORD1034,Arjun Kapoor,Delhi,Electronics,1,1499.0,Debit Card,2026-01-15,1499.0
+ORD1044,Rohit Gupta,Delhi,Books,4,1499.0,Credit Card,2026-03-05,5996.0
+ORD1056,Divya Iyer,Delhi,Furniture,3,499.0,Credit Card,2026-01-15,1497.0
+ORD1016,Anjali Nair,Bangalore,Electronics,2,2999.0,Debit Card,2026-02-20,5998.0
+ORD1053,Sneha Patel,Delhi,Unknown,3,999.0,Credit Card,2026-02-20,2997.0
+ORD1029,Aman Verma,Pune,Electronics,3,2999.0,Credit Card,2026-01-15,8997.0
+ORD1031,Rohit Gupta,Pune,Unknown,3,499.0,Debit Card,2026-02-20,1497.0
+ORD1038,Rohit Gupta,Mumbai,Electronics,3,1499.0,Credit Card,2026-03-05,4497.0
+ORD1040,Aman Verma,Mumbai,Books,3,999.0,Upi,2026-01-15,2997.0
+ORD1030,Karan Mehta,Pune,Clothing,3,2999.0,Cash On Delivery,2026-03-05,8997.0
+ORD1037,Arjun Kapoor,Kolkata,Books,2,1999.0,Cash On Delivery,2026-03-05,3998.0
+ORD1011,Sneha Patel,Pune,Unknown,3,999.0,Credit Card,2026-02-20,2997.0
+ORD1036,Rohit Gupta,Bangalore,Unknown,4,499.0,Cash On Delivery,2026-01-15,1996.0
+ORD1052,Aman Verma,Chennai,Unknown,5,2999.0,Cash On Delivery,2026-02-20,14995.0
+ORD1013,Aman Verma,Kolkata,Unknown,2,2999.0,Debit Card,2026-01-15,5998.0
+ORD1023,Aman Verma,Pune,Groceries,3,1499.0,Credit Card,2026-01-15,4497.0
+ORD1032,Anjali Nair,Bangalore,Books,5,1499.0,Upi,2026-01-15,7495.0
+ORD1002,Aman Verma,Pune,Electronics,5,1499.0,Upi,2026-01-15,7495.0
+ORD1017,Rohit Gupta,Pune,Books,3,1499.0,Credit Card,2026-02-20,4497.0
+ORD1004,Rohit Gupta,Pune,Books,2,1499.0,Cash On Delivery,2026-02-20,2998.0
+ORD1041,Rohit Gupta,Delhi,Furniture,4,499.0,Cash On Delivery,2026-01-15,1996.0
+ORD1054,Anjali Nair,Delhi,Unknown,3,999.0,Cash On Delivery,2026-02-20,2997.0
+ORD1055,Aman Verma,Mumbai,Books,5,2999.0,Upi,2026-01-15,14995.0
+ORD1049,Karan Mehta,Pune,Furniture,2,199.0,Cash On Delivery,2026-01-15,398.0
+ORD1010,Rohit Gupta,Bangalore,Electronics,3,499.0,Upi,2026-03-05,1497.0
+ORD1050,Priya Singh,Mumbai,Furniture,1,1499.0,Credit Card,2026-03-05,1499.0
+ORD1025,Sneha Patel,Pune,Clothing,5,199.0,Debit Card,2026-02-20,995.0
+ORD1006,Rohit Gupta,Bangalore,Electronics,1,1499.0,Upi,2026-02-20,1499.0
+ORD1020,Divya Iyer,Pune,Electronics,3,199.0,Upi,2026-01-15,597.0
+ORD1007,Vikram Rao,Kolkata,Groceries,3,199.0,Debit Card,2026-03-05,597.0
+ORD1001,Aman Verma,Mumbai,Unknown,3,499.0,Credit Card,2026-01-15,1497.0
+ORD1045,Riya Sharma,Delhi,Books,1,1499.0,Credit Card,2026-03-05,1499.0
+ORD1005,Riya Sharma,Delhi,Unknown,4,999.0,Credit Card,2026-01-15,3996.0
+ORD1027,Divya Iyer,Mumbai,Furniture,3,1499.0,Upi,2026-01-15,4497.0
+ORD1043,Aman Verma,Mumbai,Unknown,5,1999.0,Upi,2026-01-15,9995.0
+ORD1009,Arjun Kapoor,Bangalore,Furniture,2,1499.0,Upi,2026-01-15,2998.0
+ORD1015,Rohit Gupta,Bangalore,Electronics,2,1999.0,Upi,2026-02-20,3998.0

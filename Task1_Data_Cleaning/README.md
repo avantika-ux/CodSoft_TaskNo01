@@ -12,7 +12,7 @@ Each folder includes its own README with the objective, approach, and files for 
 More tasks will be added here as they're completed.
 
 ## Tools & Skills
-Python, Pandas, NumPy, Git/GitHub
+Python, Pandas, NumPy, Jupyter Notebook, Git/GitHub
 
 ## About
-Final-year CSE student — internship tasks completed as part of a structured internship program.
+CodSoft internship tasks focused on Data Cleaning, Preprocessing.

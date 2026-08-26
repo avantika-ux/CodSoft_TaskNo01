@@ -1,0 +1,11 @@
+CustomerName,Age,City,TotalOrders,TotalSpend,AvgOrderValue,FavoriteCategory,AgeGroup,ValueSegment
+Aman Verma,29,Mumbai,9,71466.0,7940.666666666667,Books,26-35,Top Value
+Rohit Gupta,27,Bangalore,11,33470.0,3042.7272727272725,Electronics,26-35,Top Value
+Anjali Nair,40,Bangalore,3,16490.0,5496.666666666667,Books,36-45,High Value
+Arjun Kapoor,43,Bangalore,4,12491.0,3122.75,Furniture,36-45,High Value
+Karan Mehta,29,Pune,2,9395.0,4697.5,Clothing,26-35,High Value
+Sneha Patel,38,Pune,3,6989.0,2329.6666666666665,Clothing,36-45,Regular
+Divya Iyer,19,Delhi,3,6591.0,2197.0,Furniture,19-25,Regular
+Riya Sharma,57,Delhi,2,5495.0,2747.5,Books,46-59,Regular
+Priya Singh,40,Mumbai,1,1499.0,1499.0,Furniture,36-45,Regular
+Vikram Rao,22,Bangalore,2,1096.0,548.0,Clothing,19-25,Regular

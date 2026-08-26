@@ -1,0 +1,32 @@
+CUSTOMER ANALYSIS & MARKETING STRATEGY REPORT
+================================================
+
+Customers analyzed: 10
+Total revenue: ₹164,982
+
+KEY INSIGHTS
+------------
+1. Highest-spending age group: 26-35 years (avg spend ₹38,110).
+2. Highest average spend by city: Mumbai (avg ₹36,482).
+3. 2 customer(s) fall into the "Top Value" segment (top 20% by spend),
+   contributing disproportionately to total revenue.
+4. Top customer: Aman Verma, with ₹71,466
+   spent across 9 order(s), favoring Books.
+
+Note: This dataset is small (10 unique customers), so segment sizes and trends here are
+illustrative of the method rather than statistically robust — the same grouping and
+segmentation logic scales directly to a larger real dataset.
+
+SUGGESTED MARKETING STRATEGIES
+-------------------------------
+- Top Value segment: enroll in a loyalty/rewards program and offer early access to new
+  products, since retaining them protects a disproportionate share of revenue.
+- Regular segment: target with re-engagement offers (e.g. limited-time discounts) to
+  increase order frequency and shift them toward the High Value tier.
+- 26-35 age group: since this group already spends the most on average, tailor
+  product recommendations and ad creative toward their apparent favorite categories.
+- Mumbai: given the strongest average spend per customer, consider concentrated local
+  marketing (city-specific promotions, faster delivery options) to reinforce loyalty there.
+- Customers with a clear FavoriteCategory: use category-specific email campaigns
+  (e.g. new arrivals in that category) rather than generic blasts, since purchase history
+  shows a clear preference.

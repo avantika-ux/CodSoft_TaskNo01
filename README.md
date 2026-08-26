@@ -18,4 +18,4 @@ More tasks will be added here as they're completed.
 Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Git/GitHub
 
 ## About
-Final-year CSE student — internship tasks completed as part of a structured internship program.
+Internship tasks completed as part of a structured internship program.

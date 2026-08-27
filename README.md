@@ -13,7 +13,7 @@ Each folder includes its own README with the objective, approach, and files for 
 | 4 | Customer Data Analysis | [`Task4_Customer_Analysis`](./Task4_Customer_Analysis) | Segmented customers by age, spend, and city; identified top-value customers; produced 4 visual reports plus a marketing strategy report based on the findings. |
 | 5 | Web Data Extraction & Analysis | [`Task5_Web_Scraping`](./Task5_Web_Scraping) | Scraped live data from GitHub Trending using BeautifulSoup, cleaned and analyzed it, and exported results to CSV and Excel. |
 
-More tasks will be added here as they're completed.
+
 
 ## Tools & Skills
 Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Requests, BeautifulSoup, Git/GitHub

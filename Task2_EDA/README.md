@@ -1,6 +1,6 @@
 # Task 2 — Exploratory Data Analysis (EDA)
 
-**InAmigos Foundation Internship**
+**CodSoft Internship**
 
 ## Objective
 - Load a dataset and examine its features using descriptive statistics
